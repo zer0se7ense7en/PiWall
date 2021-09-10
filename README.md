@@ -49,3 +49,5 @@ TODO:
 Add sound output
 
 move bash files to raspberry pi on network. Powerful enough?
+
+upload config files!!!!!!!!!!!!!!
